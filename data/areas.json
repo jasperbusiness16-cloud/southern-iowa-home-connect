@@ -1,0 +1,46 @@
+{
+  "towns": [
+    {
+      "slug": "chariton",
+      "name": "Chariton",
+      "county": "Lucas County"
+    },
+    {
+      "slug": "centerville",
+      "name": "Centerville",
+      "county": "Appanoose County"
+    },
+    {
+      "slug": "albia",
+      "name": "Albia",
+      "county": "Monroe County"
+    },
+    {
+      "slug": "bloomfield",
+      "name": "Bloomfield",
+      "county": "Davis County"
+    }
+  ],
+  "counties": [
+    {
+      "slug": "lucas-county",
+      "name": "Lucas County",
+      "hub": "Chariton"
+    },
+    {
+      "slug": "appanoose-county",
+      "name": "Appanoose County",
+      "hub": "Centerville"
+    },
+    {
+      "slug": "monroe-county",
+      "name": "Monroe County",
+      "hub": "Albia"
+    },
+    {
+      "slug": "davis-county",
+      "name": "Davis County",
+      "hub": "Bloomfield"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap will be added when the custom domain is connected.
+Sitemap: https://jasperbusiness16-cloud.github.io/southern-iowa-home-connect/sitemap.xml

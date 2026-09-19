@@ -1,0 +1,186 @@
+[
+  {
+    "slug": "septic",
+    "name": "Septic",
+    "status": "available",
+    "icon": "S",
+    "intro": "Pumping, inspections, repairs, alarms, backups and system concerns.",
+    "needs": [
+      "Pumping",
+      "Backup / overflow",
+      "Inspection",
+      "Alarm or pump issue",
+      "Repair",
+      "Replacement / new system",
+      "Other"
+    ]
+  },
+  {
+    "slug": "roofing",
+    "name": "Roofing",
+    "status": "soon",
+    "icon": "R",
+    "intro": "Leaks, storm damage, repairs, replacements and roof inspections.",
+    "needs": [
+      "Leak",
+      "Storm damage",
+      "Repair",
+      "Replacement",
+      "Inspection",
+      "Metal roofing",
+      "Other"
+    ]
+  },
+  {
+    "slug": "plumbing",
+    "name": "Plumbing",
+    "status": "soon",
+    "icon": "P",
+    "intro": "Leaks, clogs, water heaters, fixtures and urgent plumbing problems.",
+    "needs": [
+      "Leak",
+      "Clog / backup",
+      "Water heater",
+      "Fixture repair",
+      "Pipe issue",
+      "Emergency plumbing",
+      "Other"
+    ]
+  },
+  {
+    "slug": "hvac",
+    "name": "Heating & Cooling",
+    "status": "soon",
+    "icon": "H",
+    "intro": "HVAC repair, maintenance, replacements and seasonal service.",
+    "needs": [
+      "No heat",
+      "No cooling",
+      "Maintenance",
+      "Replacement",
+      "Indoor air quality",
+      "Thermostat",
+      "Other"
+    ]
+  },
+  {
+    "slug": "tree-service",
+    "name": "Tree Service",
+    "status": "soon",
+    "icon": "T",
+    "intro": "Tree removal, trimming, storm cleanup, stump work and assessments.",
+    "needs": [
+      "Tree removal",
+      "Trimming",
+      "Storm cleanup",
+      "Stump removal",
+      "Hazard assessment",
+      "Other"
+    ]
+  },
+  {
+    "slug": "fencing",
+    "name": "Fencing",
+    "status": "soon",
+    "icon": "F",
+    "intro": "New fences, repairs, farm fencing, privacy fencing and gates.",
+    "needs": [
+      "New fence",
+      "Fence repair",
+      "Farm fencing",
+      "Privacy fence",
+      "Gate",
+      "Other"
+    ]
+  },
+  {
+    "slug": "concrete",
+    "name": "Concrete",
+    "status": "soon",
+    "icon": "C",
+    "intro": "Driveways, patios, sidewalks, slabs and concrete repair.",
+    "needs": [
+      "Driveway",
+      "Patio",
+      "Sidewalk",
+      "Slab",
+      "Repair",
+      "Other"
+    ]
+  },
+  {
+    "slug": "electrical",
+    "name": "Electrical",
+    "status": "soon",
+    "icon": "E",
+    "intro": "Repairs, outlets, panels, lighting and residential electrical work.",
+    "needs": [
+      "Electrical repair",
+      "Outlet / switch",
+      "Panel",
+      "Lighting",
+      "New circuit",
+      "Other"
+    ]
+  },
+  {
+    "slug": "junk-removal",
+    "name": "Junk Removal",
+    "status": "soon",
+    "icon": "J",
+    "intro": "Household cleanouts, bulky-item pickup and property cleanup.",
+    "needs": [
+      "House cleanout",
+      "Furniture / appliances",
+      "Garage cleanup",
+      "Estate cleanup",
+      "Construction debris",
+      "Other"
+    ]
+  },
+  {
+    "slug": "landscaping",
+    "name": "Landscaping",
+    "status": "soon",
+    "icon": "L",
+    "intro": "Cleanup, grading, planting, lawn projects and outdoor improvements.",
+    "needs": [
+      "Cleanup",
+      "Grading",
+      "Planting",
+      "Lawn project",
+      "Drainage",
+      "Other"
+    ]
+  },
+  {
+    "slug": "well-services",
+    "name": "Well Services",
+    "status": "soon",
+    "icon": "W",
+    "intro": "Well concerns, pumps, pressure issues and residential water-system service.",
+    "needs": [
+      "Well pump",
+      "No water",
+      "Low pressure",
+      "Inspection",
+      "Water-system concern",
+      "Other"
+    ]
+  },
+  {
+    "slug": "garage-doors",
+    "name": "Garage Doors",
+    "status": "soon",
+    "icon": "G",
+    "intro": "Repairs, openers, springs, replacements and urgent door problems.",
+    "needs": [
+      "Door repair",
+      "Opener",
+      "Spring",
+      "Replacement",
+      "Door stuck",
+      "Other"
+    ]
+  }
+]
